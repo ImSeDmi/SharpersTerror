@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+
+    <color name="black95">#95000000</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="button_unpressed_color">#5a676a</color>
+    <color name="button_unpressed_stroke_color">#383a3d</color>
+    <color name="button_pressed_color">#d79f46</color>
+    <color name="button_pressed_stroke_color">#b46b03</color>
+    <color name="button_blocked_pressed_color">#a23535</color>
+    <color name="button_blocked_color">#b86969</color>
+    <color name="button_blocked_stroke_color">#650e0e</color>
+    <color name="button_accepted_pressed_color">#8cf85c</color>
+    <color name="button_accepted_color">#2cb632</color>
+    <color name="button_accepted_stroke_color">#3f650e</color>
+    <color name="button_nextprev_pressed_color">#ffe8a9</color>
+    <color name="button_nextprev_unpressed_color">#e7c873</color>
+    <color name="button_nextprev_stroke_color">#ad8d38</color>
+
+    <color name="button_gamelevels_blocked_pressed_color">#482c2c</color>
+    <color name="button_gamelevels_blocked_color">#3b3b3b</color>
+    <color name="button_gamelevels_blocked_stroke_color">#555555</color>
+
+    <color name="textbox_solid_char0">#b48c5c</color>
+    <color name="textbox_stroke_char0">#5c3b03</color>
+
+</resources>

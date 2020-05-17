@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sharpers Terror</string>
+    <string name="start">Начать</string>
+    <string name="back">Назад</string>
+    <string name="text_continue">Продолжить</string>
+    <string name="text_end">Завершить</string>
+</resources>

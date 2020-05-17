@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="act0_desc"  style.align="justify"> Вы отказались от задания, значит, на этом ваше приключение закончилось! </string>
+    <string name="act0"  style.align="justify"> ЗАДАНИЕ ПРОВАЛЕНО! </string>
+
+ <string name="act1">
+     [1/4] Новое задание\n
+     \nВы получили письмо с просьбой о помощи.
+     Внимательно прочтите его и сформулируйте
+     основные цели данного задания. </string>
+</resources>
