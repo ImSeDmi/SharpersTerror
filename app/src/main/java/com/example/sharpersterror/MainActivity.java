@@ -1,7 +1,6 @@
 package com.example.sharpersterror;
 
 import androidx.appcompat.app.AppCompatActivity;
-
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
@@ -15,11 +14,14 @@ public class MainActivity extends AppCompatActivity {
     private long backPressedTime;
     private Toast backToast;
 
+
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
+        LevelCheckerFuller();
 
         Button buttonStart = (Button)findViewById(R.id.buttonStart);
 
@@ -58,5 +60,9 @@ public class MainActivity extends AppCompatActivity {
         }
 
         backPressedTime = System.currentTimeMillis();
+    }
+
+    public void LevelCheckerFuller(){
+
     }
 }
